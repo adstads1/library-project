@@ -1,11 +1,17 @@
 # Library Management System
-I have created a Library Management System (LMS) written in Java which developed my Java and Object Oriented Programming skills. The program has 20 circles that move around of a screen of a dimension of 1900px by 950px, or designed for an aspect ratio of 16:9. The balls have different colors, move around independently and have been positioned at different areas of the canvas randomly.
+I have designed and created a Library Management System (LMS) which is written in Java. This project has drastically developed my Java, Object Oriented Programming and my Software Development Life knowledge. 
+
+The program holds information about books and DVDs stored in a mutable Arraylist. Functionalities such as adding, deleing, borrowing and returning an item (book or DVD) can be done on the application as well as printing a list of items and displaying to the user a Graphical User Interface (GUI). This has been a fun project and it has heavily improved my problem soling skills.
+
+
+
+Above is a screenshot of an overview of the functionalities capable of doing on the application.
 
 This project solified my knowledge of:
 
-The JavaScript syntax.
-Immediately Invoked Function Expression (which I researched due to my project but not implemented in my program).
-Classes, functions, properties, object literals, constructors.
-Basic principles of WebGL.
-For loops and if statements.
-Feel free to use and implement the program.
+Design Digrams. E.g UML and Use Case diagrams
+Object Oriented Programming prinicples and concepts
+The best coding practices
+Java Swing
+
+Feel free to use and implement my program.
