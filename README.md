@@ -3,7 +3,7 @@ I have designed and created a Library Management System (LMS) which is written i
 
 The program holds information about books and DVDs stored in a mutable Arraylist. Functionalities such as adding, deleing, borrowing and returning an item (book or DVD) can be done on the application as well as printing a list of items and displaying to the user a Graphical User Interface (GUI). This has been a fun project and it has heavily improved my problem soling skills.
 
-
+![](bookingSystem.PNG)
 
 Above is a screenshot of an overview of the functionalities capable of doing on the application.
 
