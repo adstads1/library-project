@@ -9,9 +9,9 @@ Above is a screenshot of an overview of the functionalities capable of doing on 
 
 This project solified my knowledge of:
 
-*Design Digrams. E.g UML and Use Case diagrams
-*Object Oriented Programming prinicples and concepts
-*The best coding practices
-*Java Swing
+* Design Digrams. E.g UML and Use Case diagrams
+* Object Oriented Programming prinicples and concepts
+* The best coding practices
+* Java Swing
 
 Feel free to use and implement my program.
